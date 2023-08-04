@@ -1,4 +1,4 @@
-# Graduate Student Election Booth
+# University Graduate Student Election Booth
 Software engineering group final project
 
 Team members:
